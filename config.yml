@@ -1,7 +1,7 @@
 version: "1.0"
 
 user:
-  name: "Osman"
+  name: "ahmet"
 
 settings:
   autosave: false
